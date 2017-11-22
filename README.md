@@ -1,2 +1,4 @@
-# CSE519-2017 Stony Brook University
-Deepak Gupta 111485
+**Data Science**
+
+**Kaggle: Zillow Home Value Prediction**
+Machine learning prediction model to estimate the future sale prices of houses based on Zillow database. 
